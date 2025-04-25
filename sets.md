@@ -34,7 +34,7 @@ C. `<class 'NoneType'>`
 D. `{ }`  
 <details>
 <summary>Answer</summary>
-B. `<class 'dict'>`
+B. <class 'dict'>
 </details>
 
 ### 4. What will be the output of `my_set2`?
